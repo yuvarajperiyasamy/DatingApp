@@ -443,7 +443,7 @@ $RECYCLE.BIN/
 # JetBrains Rider
 .idea/
 *.sln.iml
-
+ssl
 ##
 ## Visual Studio Code
 ##
